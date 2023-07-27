@@ -1,0 +1,127 @@
+header{
+  background-color: #F8F8F8;
+  display: flex;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  color: #000000;
+  font-family: 'Inter';
+  font-style: normal;
+}
+li{
+  display: inline-block;
+  margin-right: 10px;
+  padding: 0px;
+  color: #000000;
+}
+nav{
+    margin-left: auto;
+   }
+
+.class1{
+      text-align: center;
+      font-family: 'ABeeZee';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 50px;
+     color: rgb(136, 127, 255);
+     margin-top: 0px;
+     padding-top: 300px;
+     padding-bottom: 0px;
+     margin-bottom: 0px;
+     
+}
+h3{    
+font-family: 'ABeeZee';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+color: rgb(127, 127, 255);
+text-align: center;
+margin-top: 0px;
+margin-bottom: 0px;
+padding-top: 0px;
+padding-bottom: 0px;
+}
+.background1{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrRMHThLy0_Kq7eU7AwuhDoOiI5yyIyQQARA&usqp=CAU);
+  height:740px;
+  width: auto;
+}
+.button1{
+  background-color:#0BC7E0;
+  font-family: 'Alfa Slab One';
+  font-weight: 400px;
+  font-size: 20px;
+  color: #FFFFFF;
+  border: 200px;
+  border-radius:50px;
+  margin-left: 565px;
+  margin-top: 0px;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.class2{
+font-family: 'ABeeZee';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+color: #000000;
+text-align: center;
+}
+.image1,.image2,.image3{
+  display: inline-block;
+  margin-left: 200px;
+  text-align: center;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrRMHThLy0_Kq7eU7AwuhDoOiI5yyIyQQARA&usqp=CAU);
+  height: 180px;
+  width: 180px; ;
+  border-radius: 20px;
+}
+.image1{
+
+   margin-left: 150px;
+}
+
+.class2{
+font-family: 'ABeeZee';
+font-style: normal;
+font-size: 30px;
+color: #000000;
+text-align: center;
+}
+
+h5{
+font-family: 'ABeeZee';
+font-style: normal;
+font-weight: 200;
+font-size: 20px;
+color: #000000;
+margin-bottom: 0px;
+margin-left: 500px;
+}
+input{
+  border-radius: 50px;
+  background: #D9D9D9;
+  margin-left: 500px;
+  padding-left: 100px;
+}
+.information{
+   background-color:#7978B7;
+   ;
+}
+.button2{
+     border-radius: 10px;
+     background-color: #081696;
+     margin-left: 570px;
+     margin-top: 20px;
+     padding-top: 10px ;
+     padding-bottom: 10px;
+     padding-left: 30PX;
+     padding-right: 30px;
+     font-size: 20px;
+     border-color: #081696;
+     color: white;
+
+}

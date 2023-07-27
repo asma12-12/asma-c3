@@ -1,0 +1,65 @@
+h1{
+  font-size: 50px;
+  font-style: italic;
+  color: rgb(21, 75, 119);
+  background-color: rgba(233, 233, 233, 0.635);
+  font-family: 'Times New Roman', Times, serif;
+  text-shadow: 300px;
+  text-align: center;
+  box-shadow: 10px 10px 10px black;
+}
+.Introduction{
+  font-size: 30px;
+  color: rgb(148, 172, 218);
+  width: 250px;
+  background-color: rgb(227, 227, 223);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  box-shadow: 10px 10px 10px rgb(131, 207, 232);
+}
+#Courses{
+  font-size: 30px;
+  color: rgb(148, 172, 218);
+  width: 250px;
+  background-color: rgb(246, 246, 244);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  box-shadow: 10px 10px 10px rgb(131, 207, 232);
+}
+.Hobbies{
+  font-size: 30px;
+  color: rgb(148, 172, 218);
+  width: 250px;
+  background-color: rgb(236, 236, 222);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  box-shadow: 10px 10px 10px rgb(131, 207, 232);
+}
+a{
+  color: bisque;
+}
+body{
+  background-color: rgb(158, 209, 231);
+  background-image: url(https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+  color: white;
+}
+button{ 
+  background-color: rgb(20, 47, 100);
+  box-shadow: 10px 0px 0px rgb(85, 178, 218);
+  font-style: inherit; 
+   height: 50px;
+  width: 100px;
+  border: 200px;
+  border-radius: 10px;
+  margin-left: 100px;
+  color: floralwhite;
+  cursor: pointer;
+  
+}
+b{
+  font-size: medium;
+  color: red;
+}
+button:hover{
+    background-color: aliceblue;
+    color: rgb(9, 92, 237);
+}
+
+

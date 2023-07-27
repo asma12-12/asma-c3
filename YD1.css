@@ -1,0 +1,25 @@
+.channel{
+   background-color: red;
+   color: aliceblue;
+   height: 50px;
+   width: 100px;
+   border-radius: 10px;
+   border: rgb(8, 8, 8);
+   cursor: pointer;
+   transition: opacity 0.5s;
+   transition: 0.5;
+   transition-duration: 0.5;
+}
+.channel:hover{
+   background-color: rgb(230, 231, 230);
+   color: red;
+   opacity: 0.7;
+   box-shadow: 10px 10px 10px rgba(0,0,0, 0.5)
+}
+.channel:active{
+  background-color: blueviolet;
+  opacity: 1;
+}
+.BTS{
+   margin-left: 300px;
+}

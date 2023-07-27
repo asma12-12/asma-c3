@@ -1,0 +1,23 @@
+@media screen and (max-width:768PX) {
+  body{
+
+       background-color: blue;
+  }
+  
+}
+body{
+  background-color: brown;
+}
+div{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+}
+.content{
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+  margin: 40PX;
+  padding: 3px;
+  border: 1px solid black;
+}

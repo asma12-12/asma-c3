@@ -1,0 +1,22 @@
+h1{
+   text-align: center;
+   background-color: antiquewhite;
+   text-shadow: 10px 10px 10px rgb(167, 167, 245);
+   text-decoration: underline;
+   color: blueviolet;
+   font-style: italic;
+   font-size: larger; 
+   font-weight: 300px;
+   width: 60%;
+   border: 50%;
+   border-radius: 50%;
+}
+img{
+    margin-left: 50%;
+    width: 50%;
+    height: 50%;
+
+}
+h2{
+   display: inline;
+}

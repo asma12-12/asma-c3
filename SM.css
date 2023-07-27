@@ -1,0 +1,88 @@
+ h1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgb(244, 247, 247);
+     text-align: center;
+ } 
+  
+  img{
+height: 200px;
+width: 650px; 
+display: block;
+margin-left: auto;
+margin-right: auto;
+  }
+  
+  h2{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+   color: rgb(129, 173, 190);
+   text-decoration: underline;
+   text-align: unset;
+  }
+
+  body{
+    background-image: url(https://img.freepik.com/premium-photo/dark-cement-wall-background-vintage-style-graphic-design-wallpaper_226189-285.jpg);
+  }
+
+  table, th, td{
+   border: 1px solid rgb(171, 145, 149);
+   width: 1000px;
+   border-collapse:collapse;
+   position: inherit;
+   margin-left: auto;
+   margin-right: auto;
+   
+  }
+  thead{
+    color: rgb(50, 131, 156);
+    text-align: center;
+    height: 40px;
+   }
+  tbody{
+    color: bisque;
+     text-align:center;
+   }
+
+  h4{
+    color: blanchedalmond;
+
+  }
+
+  label{
+    color: blanchedalmond;
+    position: initial;
+  }
+
+ button{   
+    color: rgb(139, 176, 203);
+    background-color: azure;
+    border-radius: 30%;
+    cursor: pointer;
+    box-shadow: 10px 0px 10px rgb(164, 190, 201);
+    width:100px;
+    height: 50px;
+    border: 300px;
+    font-style: italic;
+    font-size:medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+  button:hover{
+    background-color: rgb(139, 176, 203);
+    color: azure;
+}
+  
+  caption{
+    background-color: rgba(125, 218, 255, 0.635);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: larger;
+    color: rgba(254, 255, 255, 0.963);
+    text-align: center;
+  }
+
+  .text{
+    width: 500px;
+  }

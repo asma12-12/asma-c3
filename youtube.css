@@ -1,0 +1,32 @@
+img{
+  width: 150px;
+  display: block;
+}
+.searchbox{
+  border-radius: 8px;
+  border-color: aquamarine;
+  margin-left: 20px;
+  padding-left: 10px;
+  display: block;
+      }
+.AI{
+   font-size: 8px;
+  font-family: 'Segoe UI';
+  font-weight: 4px;
+  width: 120px;
+  margin-top: 0px;
+  }
+  .name{
+      font-size: 6px;
+      font-family: 'Segoe UI';
+      font-weight: 4px;
+      color: rgb(156, 158, 158);
+      margin-bottom: 0px;
+  }
+  .views{
+      font-size: 5px;
+      font-family: 'Segoe UI';
+      font-weight: 4px;
+      color: rgb(156, 158, 158);
+      margin-top: 0px;
+  }
